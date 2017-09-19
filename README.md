@@ -8,7 +8,7 @@ Welcome to Flatiron School’s Bootcamp Prep course – the most effective and e
 
 Before diving into your first lesson, here’s what’s coming up – and what you have to look forward to – in this 75+ hour free course. 
 
-<img height="auto" width="1500px" src="https://s3-us-west-2.amazonaws.com/curriculum-content/streamlined-onboarding/road+to+code.png" />
+<img height="auto" width="1000px" src="https://s3-us-west-2.amazonaws.com/curriculum-content/streamlined-onboarding/road+to+code.png" />
 
 
 ## How you’ll learn
@@ -43,7 +43,7 @@ Playing off an old gaming cheat code, you’ll learn how to trigger an alert via
   <img src="https://curriculum-content.s3.amazonaws.com/web-development/bootcamp_prep/rock_dodger.gif" alt="Rock Dodger demo!">
 </picture>
 
-You’ll build a dynamic game from scratch, programming a ship controlled by your arrow keys and animating falling rocks to avoid or else… *boom*.*b
+You’ll build a dynamic game from scratch, programming a ship controlled by your arrow keys and animating falling rocks to avoid or else… *boom*
 
 ### Tic Tac Toe
 
