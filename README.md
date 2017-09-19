@@ -2,13 +2,13 @@
 
 Welcome to Flatiron School’s Bootcamp Prep course – the most effective and efficient way to learn programming fundamentals and prepare yourself to get into a top coding bootcamp. We’re excited to have you here!
 
-gif
+<img height="auto" width="500px" src="https://s3-us-west-2.amazonaws.com/curriculum-content/streamlined-onboarding/dancing.gif" />
 
 ## What you’ll learn
 
 Before diving into your first lesson, here’s what’s coming up – and what you have to look forward to – in this 75+ hour free course. 
 
-Jan's graphic
+<img height="auto" width="1500px" src="https://s3-us-west-2.amazonaws.com/curriculum-content/streamlined-onboarding/road+to+code.png" />
 
 
 ## How you’ll learn
@@ -29,11 +29,34 @@ By the end of the course, you’ll already have an impressive portfolio of codin
 
 Here’s a sample of what you’ll build: 
 
-chart
+### Konami Code
+
+<img height="56px" width="auto" src="https://s3-us-west-2.amazonaws.com/curriculum-content/streamlined-onboarding/konamicode-icon.svg" />
+
+Playing off an old gaming cheat code, you’ll learn how to trigger an alert via certain keystrokes.
+
+### Rock Dodger
+
+<picture>
+  <source srcset="https://curriculum-content.s3.amazonaws.com/web-development/bootcamp_prep/rock_dodger.webp" type="image/webp">
+  <source srcset="https://curriculum-content.s3.amazonaws.com/web-development/bootcamp_prep/rock_dodger.gif" type="image/gif">
+  <img src="https://curriculum-content.s3.amazonaws.com/web-development/bootcamp_prep/rock_dodger.gif" alt="Rock Dodger demo!">
+</picture>
+
+You’ll build a dynamic game from scratch, programming a ship controlled by your arrow keys and animating falling rocks to avoid or else… *boom*.*b
+
+### Tic Tac Toe
+
+<img height="56px" width="auto" src="https://s3-us-west-2.amazonaws.com/curriculum-content/streamlined-onboarding/tictactoe-icon.svg" />
+
+
+You’ll build a two-player game of object-oriented Tic Tac Toe.
+
 
 ## Ready to start coding?
 
 Click “I’m done” on the right to jump into the section where you’ll get a refresher on HTML & CSS Fundamentals. After that, the real fun will begin with JavaScript.
+
 
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/welcome-to-bootcamp-prep-test'>Welcome to Bootcamp Prep Test</a> on Learn.co and start learning to code for free.</p>
