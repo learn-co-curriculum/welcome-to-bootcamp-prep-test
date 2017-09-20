@@ -8,8 +8,10 @@ Welcome to Flatiron School’s Bootcamp Prep course – the most effective and e
 
 Before diving into your first lesson, here’s what’s coming up – and what you have to look forward to – in this 75+ hour free course. 
 
-<img height="auto" width="1000px" src="https://s3-us-west-2.amazonaws.com/curriculum-content/streamlined-onboarding/road+to+code.png" />
-
+<picture>
+  <source srcset="https://s3-us-west-2.amazonaws.com/curriculum-content/streamlined-onboarding/road+to+code.png" media="(min-width: 768px)" height="auto" width="768px"/>
+  <source srcset="https://s3-us-west-2.amazonaws.com/curriculum-content/streamlined-onboarding/road+to+code.png" media="(max-width: 769px)" height="auto" width="auto"/>
+</picture>
 
 ## How you’ll learn
 
