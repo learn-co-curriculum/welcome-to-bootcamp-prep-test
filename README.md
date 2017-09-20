@@ -8,11 +8,7 @@ Welcome to Flatiron School’s Bootcamp Prep course – the most effective and e
 
 Before diving into your first lesson, here’s what’s coming up – and what you have to look forward to – in this 75+ hour free course. 
 
-<picture>
-  <source srcset="https://s3-us-west-2.amazonaws.com/curriculum-content/streamlined-onboarding/road+to+code.png" media="(min-width: 768px)" height="auto" width="768px"/>
-  <source srcset="https://s3-us-west-2.amazonaws.com/curriculum-content/streamlined-onboarding/road+to+code.png" media="(max-width: 769px)" height="auto" width="auto"/>
-  <img src="https://s3-us-west-2.amazonaws.com/curriculum-content/streamlined-onboarding/road+to+code.png" height="auto" width="768px"/>
-</picture>
+  <img src="https://s3-us-west-2.amazonaws.com/curriculum-content/streamlined-onboarding/road+to+code.png" height="auto" width="760px"/>
 
 ## How you’ll learn
 
@@ -32,28 +28,20 @@ By the end of the course, you’ll already have an impressive portfolio of codin
 
 Here’s a sample of what you’ll build: 
 
-### Konami Code
-
-<img height="56px" width="auto" src="https://s3-us-west-2.amazonaws.com/curriculum-content/streamlined-onboarding/konamicode-icon.svg" />
-
-Playing off an old gaming cheat code, you’ll learn how to trigger an alert via certain keystrokes.
-
-### Rock Dodger
-
-<picture>
-  <source srcset="https://curriculum-content.s3.amazonaws.com/web-development/bootcamp_prep/rock_dodger.webp" type="image/webp">
-  <source srcset="https://curriculum-content.s3.amazonaws.com/web-development/bootcamp_prep/rock_dodger.gif" type="image/gif">
-  <img src="https://curriculum-content.s3.amazonaws.com/web-development/bootcamp_prep/rock_dodger.gif" alt="Rock Dodger demo!">
-</picture>
-
-You’ll build a dynamic game from scratch, programming a ship controlled by your arrow keys and animating falling rocks to avoid or else… *boom*
-
-### Tic Tac Toe
-
-<img height="56px" width="auto" src="https://s3-us-west-2.amazonaws.com/curriculum-content/streamlined-onboarding/tictactoe-icon.svg" />
+| **Konami Code**  |  **Rock Dodger** |  **Tic Tac Toe** |
+|------------------|------------------|------------------|
+| <center><img height="56px" width="auto" src="https://s3-us-west-2.amazonaws.com/curriculum-content/streamlined-onboarding/konamicode-icon.svg" /></center> | <img src="https://curriculum-content.s3.amazonaws.com/web-development/bootcamp_prep/rock_dodger.gif" alt="Rock Dodger demo!" width="200px" height="auto"/> |  <center><img height="56px" width="auto" src="https://s3-us-west-2.amazonaws.com/curriculum-content/streamlined-onboarding/tictactoe-icon.svg" /></center> |
+| Playing off an old gaming cheat code, you’ll learn how to trigger an alert via certain keystrokes. |  You’ll build a dynamic game from scratch, programming a ship controlled by your arrow keys and animating falling rocks to avoid or else… *boom* |  You’ll build a two-player game of object-oriented Tic Tac Toe. |
 
 
-You’ll build a two-player game of object-oriented Tic Tac Toe.
+
+
+
+
+
+
+
+
 
 
 ## Ready to start coding?
