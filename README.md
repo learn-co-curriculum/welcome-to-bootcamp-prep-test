@@ -11,6 +11,7 @@ Before diving into your first lesson, here’s what’s coming up – and what y
 <picture>
   <source srcset="https://s3-us-west-2.amazonaws.com/curriculum-content/streamlined-onboarding/road+to+code.png" media="(min-width: 768px)" height="auto" width="768px"/>
   <source srcset="https://s3-us-west-2.amazonaws.com/curriculum-content/streamlined-onboarding/road+to+code.png" media="(max-width: 769px)" height="auto" width="auto"/>
+  <img src="https://s3-us-west-2.amazonaws.com/curriculum-content/streamlined-onboarding/road+to+code.png" height="auto" width="768px"/>
 </picture>
 
 ## How you’ll learn
